@@ -14,7 +14,8 @@ Para executar o projeto no terminal, digite o seguinte comando:
 
 ```
 Prompt ou Terminal
-cd paste / dotnet run 
+cd paste 
+dotnet run 
 ```
  pré-requisitos do projeto:
 
