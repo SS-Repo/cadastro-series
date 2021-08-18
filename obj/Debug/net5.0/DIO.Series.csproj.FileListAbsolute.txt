@@ -1,0 +1,16 @@
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.AssemblyReference.cache
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+D:\Common-Development-Projects\Project.BootcampCodeAnywhere\Projeto1\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
